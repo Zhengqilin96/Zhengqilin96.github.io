@@ -4,41 +4,29 @@ label: Ph.D. candidate
 
 picture: /img/profile.jpg
 
-email: ianli@ianli.com
+email: zhengqilin@rutgers.edu
 
 phone: 
 
-department: Android UX
+department: Operations Research
 
-institution: Google
+institution: Rutgers University
 
 mailing_address: >
-  1600 Amphitheatre Parkway
-  Mountain View, CA 94043
+  100 Rockafeller Rd
+  Piscataway, NJ 08854
 
 profiles:
-  - 
-    network: Google Scholar
-    username:
-    url: http://scholar.google.com/citations?user=JS7sVyQAAAAJ&hl=en
   -
     network: LinkedIn
     username:
-    url: https://www.linkedin.com/pub/ian-li/1/681/8b0
+    url: https://www.linkedin.com/in/zhengqilin/
   -
-    network: Twitter
-    username: ianli
-    url: https://twitter.com/ianli/
+    network: Instagram
+    username: lzqpandaluke
+    url: https://www.instagram.com/lzqpandaluke/
 
 intro:
-  title: Hello!
+  title: Introduction
   body: >
-    I'm a UI designer at Google.
-    Before Google, I was a Ph.D. student in the 
-    [Human-Computer Interaction Institute](http://hcii.cs.cmu.edu/) at Carnegie Mellon University.
-    My advisors were 
-    [Anind Dey](http://www.cs.cmu.edu/~anind/) and 
-    [Jodi Forlizzi](http://goodgestreet.com/). 
-    I worked on designed and developed 
-    [personal informatics tools](http://www.personalinformatics.org/) that help people better understand their own behavior.
-    [My dissertation](http://ianli.com/thesis/) explored how contextual information can improve self-knowledge in personal informatics systems.
+    I'm a TBD ... 
